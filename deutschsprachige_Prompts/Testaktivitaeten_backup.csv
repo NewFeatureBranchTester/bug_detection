@@ -1,7 +1,7 @@
-Testphase;Testaktivität;Erläuterung der Testaktivität
-Anforderungsanalyse & Testplanung;Analyse der Anforderungen auf Testbarkeit;Überprüfung, ob Anforderungen klar, vollständig und messbar formuliert sind, sodass sie validiert werden können.
-Anforderungsanalyse & Testplanung;Klärung von Unklarheiten;Rücksprache mit Fachabteilungen, Product Ownern oder Entwicklern, um Unklarheiten und widersprüchliche Formulierungen zu präzisieren.
-Anforderungsanalyse & Testplanung;Definition der Testziele;Festlegen, welche Aspekte und Funktionen der Software getestet werden sollen sowie welche Qualitätskriterien im Fokus stehen.
+Testphase; Testaktivität; Erläuterung der Testaktivität
+Anforderungsanalyse & Testplanung; Analyse der Anforderungen auf Testbarkeit; Überprüfung, ob Anforderungen klar, vollständig und messbar formuliert sind, sodass sie validiert werden können.
+Anforderungsanalyse & Testplanung; Klärung von Unklarheiten; Rücksprache mit Fachabteilungen, Product Ownern oder Entwicklern, um Unklarheiten und widersprüchliche Formulierungen zu präzisieren.
+Anforderungsanalyse & Testplanung; Definition der Testziele; Festlegen, welche Aspekte und Funktionen der Software getestet werden sollen sowie welche Qualitätskriterien im Fokus stehen.
 Anforderungsanalyse & Testplanung;Erarbeitung der Teststrategie;Entwicklung eines übergeordneten Konzepts, das Testmethoden, -stufen und Vorgehensweisen für den gesamten Testprozess definiert.
 Anforderungsanalyse & Testplanung;Festlegung des Testumfangs und der Testarten;Bestimmung, welche Funktionen und Qualitätsmerkmale (z. B. funktional, Performance, Sicherheit) getestet werden und wie getestet werden soll.
 Anforderungsanalyse & Testplanung;Erstellung eines Testplans;Dokumentation von Zeitplan, Verantwortlichkeiten, Ressourcen und Meilensteinen für den Testprozess.
