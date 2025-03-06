@@ -1,0 +1,62 @@
+﻿Testphase;Testaktivität;Erläuterung der Testaktivität
+Anforderungsanalyse & Testplanung;Analyse der Anforderungen auf Testbarkeit;Überprüfung, ob Anforderungen klar, vollständig und messbar formuliert sind, sodass sie validiert werden können.
+Anforderungsanalyse & Testplanung;Klärung von Unklarheiten;Rücksprache mit Fachabteilungen, Product Ownern oder Entwicklern, um Unklarheiten und widersprüchliche Formulierungen zu präzisieren.
+Anforderungsanalyse & Testplanung;Definition der Testziele;Festlegen, welche Aspekte und Funktionen der Software getestet werden sollen sowie welche Qualitätskriterien im Fokus stehen.
+Anforderungsanalyse & Testplanung;Erarbeitung der Teststrategie;Entwicklung eines übergeordneten Konzepts, das Testmethoden, -stufen und Vorgehensweisen für den gesamten Testprozess definiert.
+Anforderungsanalyse & Testplanung;Festlegung des Testumfangs und der Testarten;Bestimmung, welche Funktionen und Qualitätsmerkmale (z. B. funktional, Performance, Sicherheit) getestet werden und welche Bereiche ggf. ausgenommen sind.
+Anforderungsanalyse & Testplanung;Erstellung eines Testplans;Dokumentation von Zeitplan, Verantwortlichkeiten, Ressourcen und Meilensteinen für den Testprozess.
+Anforderungsanalyse & Testplanung;Aufwandsschätzung und Ressourcenplanung;Abschätzung des Testaufwands sowie Planung der notwendigen Ressourcen wie Personal, Hardware und Softwaretools.
+Anforderungsanalyse & Testplanung;Risikoanalyse und Priorisierung;Identifikation potenzieller Risiken, Bewertung von Wahrscheinlichkeit und Auswirkungen sowie Priorisierung der Testaktivitäten basierend auf diesen Risiken.
+Anforderungsanalyse & Testplanung;Auswahl geeigneter Testwerkzeuge;Evaluierung und Entscheidung für Tools, die den Testprozess (z. B. Testmanagement, Automatisierung oder Performance-Tools) unterstützen.
+Anforderungsanalyse & Testplanung;Planung der Testumgebung;Festlegen, welche Testsysteme, Betriebssysteme und Netzwerkinfrastrukturen benötigt werden, um realitätsnahe Tests durchzuführen.
+Anforderungsanalyse & Testplanung;Festlegung von Metriken, Eintritts- und Austrittskriterien;Definition von Kennzahlen sowie Kriterien, die den Beginn und Abschluss von Testphasen festlegen.
+Anforderungsanalyse & Testplanung;Planung von Kommunikation und Reporting;Vereinbarung von regelmäßigen Statusmeetings, Berichten und Kommunikationswegen zwischen Testteam, Entwicklern und Stakeholdern.
+Testentwurf & Testvorbereitung;Identifikation der Testbedingungen;Ableitung konkreter Testbedingungen aus den Anforderungen, um festzulegen, was geprüft werden muss.
+Testentwurf & Testvorbereitung;Festlegung von Akzeptanzkriterien;Definition messbarer Kriterien, anhand derer entschieden wird, ob eine Anforderung erfüllt ist.
+Testentwurf & Testvorbereitung;Entwurf (ehemals in SQS TCS) und Erstellung von Testfällen;Konzeption und detaillierte Dokumentation einzelner Testfälle, die die zu prüfenden Funktionen und Szenarien abdecken.
+Testentwurf & Testvorbereitung;Entwicklung von Testszenarien (Testsuiten);Zusammenstellung einzelner Testfälle zu umfassenden Szenarien, um End-to-End-Abläufe und die Interaktion mehrerer Funktionen zu prüfen.
+Testentwurf & Testvorbereitung;Vorbereitung von Testdaten;Erstellung oder Auswahl passender Datensätze (gültige, Grenz- und Negativwerte) als Eingabe für die Testfälle.
+Testentwurf & Testvorbereitung;Aufbau und Einrichtung der Testumgebung;Installation und Konfiguration der notwendigen Hardware, Software und Netzwerke, um eine realitätsnahe Testumgebung zu schaffen.
+Testentwurf & Testvorbereitung;Verifizierung der Testumgebung;Durchführung von Smoke-Tests oder ähnlichen Checks, um sicherzustellen, dass die Testumgebung funktionsfähig ist.
+Testentwurf & Testvorbereitung;Definition von Vorbedingungen;Festlegung aller notwendigen Voraussetzungen (z. B. existierende Daten, Benutzerkonten) vor Ausführung der Testfälle.
+Testentwurf & Testvorbereitung;Durchführung von Testfall-Reviews;Überprüfung und Abstimmung der Testfälle durch Kollegen oder Experten, um Vollständigkeit und Verständlichkeit zu sichern.
+Testentwurf & Testvorbereitung;Priorisierung der Testfälle;Bewertung der Testfälle nach Kritikalität, sodass besonders risikobehaftete Funktionen vorrangig getestet werden.
+Testentwurf & Testvorbereitung;Automatisierung von Testfällen;Identifizierung von Testfällen, die für wiederholte Prüfungen geeignet sind, und Umsetzung in automatisierte Testscripte.
+Testentwurf & Testvorbereitung;Konfiguration der Testwerkzeuge;Einrichtung und Anpassung der Tools, die für Testmanagement, Fehlererfassung und Automatisierung benötigt werden.
+Testentwurf & Testvorbereitung;Vorbereitung von Performance-Tests;Erstellung von Lastprofilen und Skripten, um die Systemleistung unter simulierten Benutzerlasten zu messen.
+Testentwurf & Testvorbereitung;Vorbereitung von Sicherheitstests;Planung von Testszenarien zur Identifikation von Sicherheitslücken und Auswahl passender Tools (z. B. für Penetrationstests oder Fuzzing).
+Testdurchführung;Durchführung manueller Testfälle;Manuelle Ausführung der geplanten Testfälle, bei der Tester die Schritte durchführen und die Ergebnisse beobachten.
+Testdurchführung;Ausführung automatisierter Tests;Starten und Überwachen von automatisierten Testskripten, häufig als Teil von Continuous-Integration-Prozessen.
+Testdurchführung;Dokumentation der Testergebnisse;Sorgfältiges Protokollieren der Ergebnisse und Beobachtungen während der Testdurchführung, inklusive Screenshots und Logdateien.
+Testdurchführung;Vergleich von Soll- und Ist-Ergebnis;Überprüfung, ob das beobachtete Verhalten den erwarteten Ergebnissen entspricht, und Analyse von Abweichungen.
+Testdurchführung;Erfassung von Fehlern inkl. Erstellung von Defektmeldungen;Detaillierte Dokumentation auftretender Fehler im Defect-Tracking-System inklusive Reproduktionsschritten, erwarteten und tatsächlichen Ergebnissen.
+TP3_Testdurchführung;TP3_TA32 Optimierung von Bugs-Reports;
+Testdurchführung;Verwaltung und Nachverfolgung der Defects;Überwachung der gemeldeten Fehler, Statusupdates und enge Zusammenarbeit mit Entwicklern, bis der Fehler behoben ist.
+Testdurchführung;Kommunikation mit dem Entwicklungsteam;Enge Abstimmung und Informationsaustausch mit den Entwicklern zur schnellen Identifikation und Behebung von Fehlern.
+Testdurchführung;Re-Tests (Nachtests) behobener Fehler;Erneute Ausführung der betroffenen Testfälle, um zu verifizieren, dass nach Fehlerbehebungen die Funktion wieder korrekt arbeitet.
+Testdurchführung;Durchführung von Regressionstests;Wiederholung bereits getesteter Szenarien, um sicherzustellen, dass neue Änderungen keine bestehenden Funktionen beeinträchtigen.
+Testdurchführung;Überwachung des Testfortschritts und Reporting;Kontinuierliches Tracking des Teststatus, der Fehlerzahlen und der Testabdeckung sowie regelmäßige Berichterstattung an Stakeholder.
+Testdurchführung;Durchführung von Last- und Stresstests;Ausführung von Tests unter hoher Belastung, um die Performancegrenzen und Systemstabilität zu prüfen.
+Testdurchführung;Durchführung von Sicherheitstests;Ausführen spezifischer Sicherheitstests wie Penetrationstests und Fuzzing, um potenzielle Sicherheitslücken aufzudecken.
+Testdurchführung;Durchführung weiterer spezifischer Testarten;Testen von speziellen Aspekten wie Usability, Kompatibilität, Installation und Upgrade, je nach den Projektanforderungen.
+Testdurchführung;Exploratives Testen;Ad-hoc und unstrukturierte Tests, bei denen der Tester frei agiert, um unerwartete Fehler oder Abweichungen zu entdecken.
+Testabschluss & Berichterstattung;Konsolidierung und Zusammenfassung der Testergebnisse;Zusammenführen aller Testergebnisse aus den unterschiedlichen Testaktivitäten zur Gesamtbewertung.
+Testabschluss & Berichterstattung;Überprüfung der Erreichung der Testziele und Abdeckung der Anforderungen;Abgleich der durchgeführten Tests mit den ursprünglichen Testzielen und Sicherstellung, dass alle Anforderungen getestet wurden.
+Testabschluss & Berichterstattung;Bewertung verbliebener Risiken;Einschätzung, welche noch bestehenden Fehler oder ungetesteten Bereiche ein Restrisiko für den Betrieb darstellen.
+Testabschluss & Berichterstattung;Erstellung des Testabschlussberichts;Detaillierte Dokumentation des gesamten Testprozesses, der Ergebnisse sowie offener Punkte in einem abschließenden Bericht.
+Testabschluss & Berichterstattung;Präsentation der Testergebnisse an Stakeholder;Vorstellung und Diskussion der Testergebnisse in Meetings oder durch schriftliche Berichte, um Transparenz für alle Beteiligten zu schaffen.
+Testabschluss & Berichterstattung;Durchführung von Lessons Learned-Sitzungen;Gemeinsame Reflexion des Testprozesses im Team, um Verbesserungspotenziale und Erfahrungen für zukünftige Projekte zu sammeln.
+Testabschluss & Berichterstattung;Dokumentation der Lessons Learned;Schriftliche Festhaltung von Erkenntnissen und Verbesserungsvorschlägen, die als Basis für die Optimierung zukünftiger Testprojekte dienen.
+Testabschluss & Berichterstattung;Archivierung aller Testartefakte;Sicherstellung, dass alle relevanten Dokumente (Testfälle, Testergebnisse, Defect-Tickets etc.) für spätere Referenz oder Audits zentral gespeichert werden.
+Testabschluss & Berichterstattung;Abschluss des Fehlermanagements;Überprüfung, dass alle gemeldeten Defekte final bearbeitet, dokumentiert und – sofern nicht behoben – als bekannte Probleme markiert wurden.
+Testabschluss & Berichterstattung;Aufräumen der Testumgebung;Bereinigung oder Rückbau der Testsysteme (z. B. Löschen von Testdaten, Schließen temporärer Umgebungen), um einen sauberen Zustand nach Testende zu gewährleisten.
+Testabschluss & Berichterstattung;Übergang in den Betrieb bzw. Release-Freigabe;Unterstützung des Go-Live-Prozesses durch Bereitstellung aller relevanten Testergebnisse und Übergabe der Informationen an das Betriebs- oder Release-Team zur finalen Freigabe der Software.
+KI-spezifische Testaktivitäten;Validierung der Trainingsdaten;Überprüfen, ob die Trainingsdaten vollständig, repräsentativ und von hoher Qualität sind, da sie die Basis für das Modell bilden.
+KI-spezifische Testaktivitäten;Datenaufbereitung und -bereinigung;Sicherstellen, dass die Trainingsdaten konsistent, fehlerfrei und optimal aufbereitet wurden, um Verzerrungen und Fehler im Modelltraining zu vermeiden.
+KI-spezifische Testaktivitäten;Bias- und Fairness-Tests;Durchführung spezifischer Tests, um systematische Verzerrungen im Modell zu identifizieren und zu minimieren, sodass das Modell fair und unvoreingenommen agiert.
+KI-spezifische Testaktivitäten;Robustheitstests und Adversarial Tests;Testen, wie das Modell auf veränderte, verrauschte oder gezielt manipulierte Eingabedaten reagiert, um die Stabilität und Sicherheit des Modells zu gewährleisten.
+KI-spezifische Testaktivitäten;Tests zur Interpretierbarkeit und Erklärbarkeit;Überprüfen, ob die Entscheidungsgrundlagen des Modells nachvollziehbar und erklärbar sind, häufig unter Einsatz von Explainable-AI-Methoden.
+KI-spezifische Testaktivitäten;Kontinuierliches Monitoring der Modellperformance;Laufende Überwachung der Modellleistung und Erkennung von Datenverschiebungen (Out-of-Distribution), um frühzeitig Leistungsabfälle oder Verschiebungen in den Eingangsdaten zu identifizieren.
+KI-spezifische Testaktivitäten;Überprüfung der Trainingsdatengenerierung;Validierung, dass der Prozess zur Generierung bzw. Annotation der Trainingsdaten konsistent und qualitativ hochwertig durchgeführt wird – diese Aktivität ist eng mit der Datenvorbereitung verknüpft.
+;;
+;;
