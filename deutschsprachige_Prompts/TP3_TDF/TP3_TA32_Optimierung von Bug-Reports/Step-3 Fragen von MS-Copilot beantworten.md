@@ -5,23 +5,37 @@ Copilot: Welche genaue URL hat die Login-Seite, auf der der Fehler auftritt?
 AW: https://www.bug.com/login
 ```
 
+
 ```
 Copilot: Danke für die URL. Nun, welche genauen Versionen der Betriebssysteme und Browser wurden verwendet, als der Fehler auftrat?
 AW: Windows 10, Browser: Google Chrome Version 126.0.6478.127, Internetverbindung: Stabil, 53 Mbps
 ```
 
-**Copilot: Perfekt, danke für die Details. Nun, kannst du mir sagen, ob es spezifische Änderungen an der Authentifizierungslogik gab, die kurz vor dem Auftreten des Fehlers implementiert wurden? Wenn ja, welche Änderungen waren das genau?**
+
+```
+Copilot: Perfekt, danke für die Details. Nun, kannst du mir sagen, ob es spezifische Änderungen an der Authentifizierungslogik gab, die kurz vor dem Auftreten des Fehlers implementiert wurden? Wenn ja, welche Änderungen waren das genau?
 AW: Heute, am Donnerstag, den 27.02.2025, wurden Änderungen an der Authentifizierungslogik implementiert.
 Der Fehler trat unmittelbar nach einem geplanten Server-Update auf. Mehr kann ich dazu nicht sagen.
+```
 
-**Copilot: Danke für die Information. Das hilft uns weiter. Nun, gibt es spezifische Benutzerrollen oder -typen, die von diesem Fehler betroffen sind, oder tritt der Fehler bei allen Benutzern auf?**
+
+```
+Copilot: Danke für die Information. Das hilft uns weiter. Nun, gibt es spezifische Benutzerrollen oder -typen, die von diesem Fehler betroffen sind, oder tritt der Fehler bei allen Benutzern auf?
 AW: Dieser Internal Server Error verhindert den Zugang aller Benutzer.
 
-**Copilot: Verstanden, das ist ein kritischer Punkt. Nun, gibt es spezifische Zeitpunkte oder Muster, wann der Fehler auftritt? Zum Beispiel, tritt der Fehler zu bestimmten Tageszeiten häufiger auf oder ist er konstant präsent?**
-AW: Der Fehler tritt konsistent bei jedem Anmeldeversuch mit gültigen Zugangsdaten auf.
+```
 
-**Copilot: Danke für die Klarstellung. Nun, gibt es zusätzliche Fehlermeldungen oder Log-Auszüge, die du teilen kannst, um mehr Kontext zu bieten? Zum Beispiel, vollständige Stack-Traces oder andere relevante Log-Einträge?**
+```
+Copilot: Verstanden, das ist ein kritischer Punkt. Nun, gibt es spezifische Zeitpunkte oder Muster, wann der Fehler auftritt? Zum Beispiel, tritt der Fehler zu bestimmten Tageszeiten häufiger auf oder ist er konstant präsent?
+AW: Der Fehler tritt konsistent bei jedem Anmeldeversuch mit gültigen Zugangsdaten auf.
+```
+
+
+```
+Copilot: Danke für die Klarstellung. Nun, gibt es zusätzliche Fehlermeldungen oder Log-Auszüge, die du teilen kannst, um mehr Kontext zu bieten? Zum Beispiel, vollständige Stack-Traces oder andere relevante Log-Einträge?
 AW: Ich habe dem Ticket vollständige Log-Dateien und Ergebnisse von den Chrome Browser DevTools (Netzwerk-Diagnosetools) angefügt.
+```
+
 
 **Copilot: Perfekt, das wird sehr hilfreich sein. Ich denke, wir haben nun alle relevanten Informationen gesammelt. Hier ist der überarbeitete Bug Report:**
 
