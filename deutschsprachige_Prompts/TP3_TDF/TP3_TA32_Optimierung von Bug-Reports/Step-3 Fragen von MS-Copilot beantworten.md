@@ -37,7 +37,7 @@ AW: Ich habe dem Ticket vollständige Log-Dateien und Ergebnisse von den Chrome 
 ```
 
 
-**Copilot: Perfekt, das wird sehr hilfreich sein. Ich denke, wir haben nun alle relevanten Informationen gesammelt. Hier ist der überarbeitete Bug Report:**
+Copilot: Perfekt, das wird sehr hilfreich sein. Ich denke, wir haben nun alle relevanten Informationen gesammelt. Hier ist der überarbeitete Bug Report:
 
 ## Titel
 
@@ -120,4 +120,3 @@ Dieser Fehler verhindert den Zugang aller Benutzer zu [Produktname], was zu eine
 
 **Kontakt:**
 Für Rückfragen wenden Sie sich bitte an das interne Support-Team ([Anonymisierte E-Mail-Adresse]).
-----------------------------------------------------------------------------------------------------
