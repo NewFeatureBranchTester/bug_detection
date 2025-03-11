@@ -41,7 +41,7 @@ work in progress - 2025
 | Testdurchführung                           | Dokumentation der Testergebnisse                          |
 | Testdurchführung                           | Vergleich von Soll- und Ist-Ergebnis                      |
 | Testdurchführung                           | Erfassung von Fehlern inkl. Erstellung von Defektmeldungen|
-| Testdurchführung                           | Optimierung von Bugs-Reports                              |
+| TP3 Testdurchführung                       | TA32 Optimierung von Bugs-Reports                         | Step-1 Eingabe Prompt-1 um Bug Report zu optimieren.prompt |
 | Testdurchführung                           | Verwaltung und Nachverfolgung der Defects                 |
 | Testdurchführung                           | Kommunikation mit dem Entwicklungsteam                    |
 | Testdurchführung                           | Re-Tests (Nachtests) behobener Fehler                     |
