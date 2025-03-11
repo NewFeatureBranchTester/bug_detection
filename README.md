@@ -8,8 +8,8 @@ It is designed to help QA engineers and software testers.
 
 work in progress - 2025
 
-| Testphase                                  | Testaktivität                                             |                                       
-|--------------------------------------------|-----------------------------------------------------------|
+| Testphase                                  | Testaktivität                                             | Prompt                                                    |                                      
+|--------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | Anforderungsanalyse & Testplanung          | Analyse der Anforderungen auf Testbarkeit                 |
 | Anforderungsanalyse & Testplanung          | Klärung von Unklarheiten                                  |
 | Anforderungsanalyse & Testplanung          | Definition der Testziele                                  |
