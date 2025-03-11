@@ -102,7 +102,4 @@ Dieser Fehler verhindert den Zugang aller Benutzer zu [Produktname], was zu eine
 
 **Kontakt:**
 Für Rückfragen wenden Sie sich bitte an das interne Support-Team ([Anonymisierte E-Mail-Adresse]).
-
 ---
-
-Ich hoffe, das hilft dir weiter! Gibt es noch etwas, das du hinzufügen möchtest?
