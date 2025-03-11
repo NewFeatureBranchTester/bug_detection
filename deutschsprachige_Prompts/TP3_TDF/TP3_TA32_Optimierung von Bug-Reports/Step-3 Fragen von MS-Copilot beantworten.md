@@ -1,10 +1,14 @@
-// Step-3: Fragen von MS-Copilot beantworten.txt
+// Step-3: Fragen von MS-Copilot beantworten.md
 
-**Copilot: Welche genaue URL hat die Login-Seite, auf der der Fehler auftritt?**
+```
+Copilot: Welche genaue URL hat die Login-Seite, auf der der Fehler auftritt?
 AW: https://www.bug.com/login
+```
 
-**Copilot: Danke für die URL. Nun, welche genauen Versionen der Betriebssysteme und Browser wurden verwendet, als der Fehler auftrat?**
+```
+Copilot: Danke für die URL. Nun, welche genauen Versionen der Betriebssysteme und Browser wurden verwendet, als der Fehler auftrat?
 AW: Windows 10, Browser: Google Chrome Version 126.0.6478.127, Internetverbindung: Stabil, 53 Mbps
+```
 
 **Copilot: Perfekt, danke für die Details. Nun, kannst du mir sagen, ob es spezifische Änderungen an der Authentifizierungslogik gab, die kurz vor dem Auftreten des Fehlers implementiert wurden? Wenn ja, welche Änderungen waren das genau?**
 AW: Heute, am Donnerstag, den 27.02.2025, wurden Änderungen an der Authentifizierungslogik implementiert.
@@ -102,4 +106,4 @@ Dieser Fehler verhindert den Zugang aller Benutzer zu [Produktname], was zu eine
 
 **Kontakt:**
 Für Rückfragen wenden Sie sich bitte an das interne Support-Team ([Anonymisierte E-Mail-Adresse]).
----
+----------------------------------------------------------------------------------------------------
