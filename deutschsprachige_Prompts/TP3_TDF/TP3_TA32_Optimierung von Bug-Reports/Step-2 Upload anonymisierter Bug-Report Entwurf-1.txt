@@ -1,6 +1,5 @@
 // erster Entwurf eines Bug-Report
 
-
 # Titel:
 Interner Serverfehler bei Benutzeranmeldung in [Produktname]
 
