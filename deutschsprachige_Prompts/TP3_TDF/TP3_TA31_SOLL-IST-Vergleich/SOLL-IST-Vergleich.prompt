@@ -1,0 +1,28 @@
+# Vergleich von Soll- und Ist-Ergebnis
+
+## Ziel
+Überprüfung, ob das beobachtete Verhalten den erwarteten Ergebnissen entspricht, und Analyse von Abweichungen.
+
+## Anleitung
+1. **Testfall auswählen**: Wählen Sie den Testfall aus, der ausgeführt werden soll.
+2. **Soll-Ergebnis definieren**: Notieren Sie das erwartete Ergebnis des Testfalls basierend auf den Anforderungen und Spezifikationen.
+3. **Testfall ausführen**: Führen Sie den Testfall gemäß der Testanweisungen durch.
+4. **Ist-Ergebnis dokumentieren**: Notieren Sie das tatsächliche Ergebnis, das während der Testdurchführung beobachtet wurde.
+5. **Vergleich durchführen**: Vergleichen Sie das Soll-Ergebnis mit dem Ist-Ergebnis.
+6. **Abweichungen analysieren**: Dokumentieren Sie alle Abweichungen und analysieren Sie mögliche Ursachen.
+7. **Bericht erstellen**: Erstellen Sie einen Bericht, der die Ergebnisse des Vergleichs und die Analyse der Abweichungen zusammenfasst.
+
+## Beispiel
+
+**Testfall**: Anmeldung mit gültigen Benutzerdaten
+
+- **Soll-Ergebnis**: Der Benutzer wird erfolgreich angemeldet und zur Startseite weitergeleitet.
+- **Ist-Ergebnis**: Der Benutzer wird erfolgreich angemeldet und zur Startseite weitergeleitet.
+- **Vergleich**: Soll- und Ist-Ergebnis stimmen überein.
+- **Abweichung**: Keine
+
+## Tipps
+- Stellen Sie sicher, dass die Soll-Ergebnisse klar und messbar sind.
+- Dokumentieren Sie alle Beobachtungen sorgfältig und detailliert.
+- Nutzen Sie Tools zur Unterstützung des Vergleichsprozesses, wenn verfügbar.
+- Kommunizieren Sie Abweichungen und deren mögliche Ursachen zeitnah an das Entwicklungsteam.
