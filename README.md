@@ -2,11 +2,6 @@
 This repository is a free collection of AI prompts made for quality assurance and software testing. 
 It is designed to help QA engineers and software testers.
 
-
-# Project Structure
-![image](https://github.com/user-attachments/assets/c8820405-bceb-4496-804d-3a7127af6a32)
-
-
 work in progress - 2025
 
 | Testphase                                  | Testaktivität                                             | Prompt                                                    |                                      
