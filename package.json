@@ -1,0 +1,23 @@
+{
+  "name": "bug_detection",
+  "version": "1.0.0",
+  "description": "This repository is a free collection of AI prompts made for quality assurance and software testing. \r It is designed to help QA engineers and software testers.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewFeatureBranchTester/bug_detection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NewFeatureBranchTester/bug_detection/issues"
+  },
+  "homepage": "https://github.com/NewFeatureBranchTester/bug_detection#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}

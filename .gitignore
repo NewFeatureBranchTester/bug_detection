@@ -28,3 +28,11 @@ pdf_downloads/ISTQB-CTFL-AuT_Syllabus_v2018_EN.pdf
 pdf_downloads/ISTQB-CTFL-MAT_Syllabus_v2019_EN.pdf
 pdf_downloads/ISTQB-CTFL-PT-Syllabus_v2018_EN.pdf
 pdf_downloads/ISTQB-CTFL-UT_Syllabus_v2017_EN.pdf
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
