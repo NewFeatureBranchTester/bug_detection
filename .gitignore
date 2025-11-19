@@ -36,3 +36,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
